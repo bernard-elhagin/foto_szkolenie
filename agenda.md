@@ -11,7 +11,7 @@
 
     - modes: Av, Tv, P, M
 
-    - focal length - ogniskowa (also affects depth of field)
+    - focal length - ogniskowa (also affects depth of field, not really though)
 
     - why phones are bad for photography (no depth of field control, tiny sensor)
 
